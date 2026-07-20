@@ -1,4 +1,4 @@
-# 🌸 AI Project 2 - Iris Flower Classification
+#  AI Project - Iris Flower Classification
 
 A Machine Learning classification project developed as part of the **DecodeLabs Artificial Intelligence Internship (Project 2)**.
 
@@ -143,5 +143,3 @@ The project automatically generates:
 **Shiv Koli**
 
 Information Technology Student
-
-DecodeLabs AI Internship Project
