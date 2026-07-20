@@ -1,4 +1,4 @@
-# 🌸 AI Project - Iris Flower Classification
+# AI Project - Iris Flower Classification
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
